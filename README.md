@@ -7,7 +7,7 @@
 
 - 🔭 No momento estou trabalhando com [Linguagem C, JavaSE, JavaEE, Linux e desenvolvimento WEB Full Stack](https://joseassis.com.br/)
 
-- 🌱 Atualmente estou me aperfeiçoando em **Java e Linux**
+- 🌱 Atualmente estou me aperfeiçoando em **Java, Linux e Arduino**
 
 - 👯 Procuro colaborar com [robótica educacional](https://github.com/roboticapratica)
 
