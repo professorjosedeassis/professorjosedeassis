@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professorjosedeassis&label=Profile%20views&color=0e75b6&style=flat" alt="professorjosedeassis" /> </p>
 
-- 🔭 No momento estou trabalhando com [JavaSE, JavaEE e Linux](https://joseassis.com.br/)
+- 🔭 No momento estou trabalhando com [JavaSE, JavaEE, Linux e Arduino](https://joseassis.com.br/)
 
 - 🌱 Atualmente estou me aperfeiçoando em **Java e Linux**
 
 - 👯 Procuro colaborar com [robótica educacional](https://github.com/roboticapratica)
 
-- 📺 Inscreva-se no meu canal do YouTube! - [INSCREVA-SE](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
+- 📺 Inscreva-se no meu canal do YouTube! - [INSCREVER-SE](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/professorjosedeassis](https://github.com/professorjosedeassis)
 
