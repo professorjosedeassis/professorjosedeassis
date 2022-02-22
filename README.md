@@ -11,7 +11,7 @@
 
 - 👯 Procuro colaborar com [robótica educacional](https://github.com/roboticapratica)
 
-- 📺 Inscreva-se no meu canal do YouTube! - [INSCREVA-SE](https://www.youtube.com/c/RoboticapraticaBr)
+- 📺 Inscreva-se no meu canal do YouTube! - [INSCREVA-SE](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/professorjosedeassis](https://github.com/professorjosedeassis)
 
