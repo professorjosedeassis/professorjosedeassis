@@ -1,6 +1,6 @@
 ![banner](https://github.com/professorjosedeassis/joseassis/blob/main/img/bannerpro.jpg?raw=true)
 
-<h1 align="center">Olá 👋, eu sou o professor José de Assis</h1>
+<h1 align="center">Olá 👋🏻, eu sou o professor José de Assis</h1>
 <h3 align="center">Seja bem-vindo(a). Aqui você encontra conteúdo de qualidade nas áreas de Programação e Linux</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professorjosedeassis&label=Profile%20views&color=0e75b6&style=flat" alt="professorjosedeassis" /> </p>
