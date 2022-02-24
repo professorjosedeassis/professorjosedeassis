@@ -17,7 +17,7 @@
 
 - 📝 Escrevo regularmente no site: [https://joseassis.com.br/](https://joseassis.com.br/)
 
-- 💬 Pergunte-me sobre **Java e Linux**
+- 💬 Pergunte-me sobre **Java, Linux e Arduino**
 
 - 📫 Contato: **josedeassisfilho@gmail.com**
 
