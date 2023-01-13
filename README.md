@@ -15,7 +15,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/professorjosedeassis](https://github.com/professorjosedeassis)
 
-- 🌎 Site: [https://joseassis.com.br/](https://joseassis.com.br/)
+- 🌎 Meu site: [https://joseassis.com.br/](https://joseassis.com.br/)
 
 - 💬 Pergunte-me sobre **Java, Linux e Arduino**
 
