@@ -1,7 +1,7 @@
 ![banner](https://github.com/professorjosedeassis/joseassis/blob/main/img/bannerpro.jpg?raw=true)
 
 <h1 align="center">Olá 👋🏻, eu sou o professor José de Assis</h1>
-<h3 align="center">Boas-vindas! Aqui você encontra tutoriais, projetos e conteúdo de qualidade nas áreas de Programação e Linux</h3>
+<h3 align="center">Boas-vindas! Aqui você encontra projetos e conteúdo de qualidade nas áreas de Programação e Linux</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professorjosedeassis&label=Profile%20views&color=0e75b6&style=flat" alt="professorjosedeassis" /> </p>
 
 - 🔭 No momento estou trabalhando com [Linguagem C, Java, Linux e desenvolvimento WEB Full Stack](https://joseassis.com.br/)
