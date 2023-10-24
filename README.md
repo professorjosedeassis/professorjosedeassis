@@ -1,4 +1,4 @@
-![banner](https://github.com/professorjosedeassis/joseassis/blob/main/img/bannerpro.jpg?raw=true)
+![banner](https://github.com/professorjosedeassis/joseassis/blob/main/img/bannerblue.png?raw=true)
 
 <h1 align="center">Olá 👋🏻, eu sou o professor José de Assis</h1>
 <h3 align="center">Boas-vindas! Aqui você encontra projetos e conteúdo de qualidade nas áreas de Programação e Linux</h3>
