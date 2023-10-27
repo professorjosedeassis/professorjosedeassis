@@ -25,7 +25,7 @@
 ## Como apoiar os tutoriais e projetos?
 ### Você pode me pagar um café! ☕
 
-### Chave PIX:
+#### Chave PIX:
 ` josedeassisfilho@gmail.com `
 ### Você também pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
