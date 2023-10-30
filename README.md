@@ -4,9 +4,9 @@
 <h3 align="center">Boas-vindas! Aqui você encontra projetos e conteúdo de qualidade nas áreas de Programação e Linux</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professorjosedeassis&label=Profile%20views&color=0e75b6&style=flat" alt="professorjosedeassis" /> </p>
 
-- 🔭 No momento estou trabalhando com **Java, JS, Linux e desenvolvimento WEB Full Stack**
+- 🔭 No momento estou trabalhando com **Java, JavaScript, Linux e desenvolvimento WEB Full Stack**
 
-- 🌱 Atualmente estou me aperfeiçoando em **Java, JavaScript e desenvolvimento WEB Full Stack**
+- 🌱 Atualmente estou me aperfeiçoando em **JavaScript e desenvolvimento WEB Full Stack**
 
 - 👯 Procuro colaborar com [robótica educacional](https://github.com/roboticapratica)
 
