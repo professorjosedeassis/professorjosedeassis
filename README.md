@@ -6,7 +6,7 @@
 
 - 🔭 No momento estou trabalhando com **Arduino, Java, JavaScript, Linux e desenvolvimento WEB Full Stack**
 
-- 🌱 Atualmente estou me aperfeiçoando em **JavaScript e desenvolvimento WEB Full Stack**
+- 🌱 Atualmente estou me aperfeiçoando em **Arduino, JavaScript e desenvolvimento WEB Full Stack**
 
 - 👯 Procuro colaborar com [robótica educacional](https://github.com/roboticapratica)
 
