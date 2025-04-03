@@ -1,33 +1,11 @@
 ![banner](banner.jpg)
-
-<h1 align="center">Olá 👋🏻, eu sou o professor José de Assis</h1>
-<h3 align="center">Aqui você encontra tutoriais e projetos para turbinar o seu currículo e criar o seu portfólio.</h3>
+<h1 align="center">Você faz. Você vê. Você aprende.</h1>
+<h3 align="center">Tutoriais e projetos reais pra fortalecer seu currículo e evitar o temido "tem experiência?" na entrevista! 😆</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professorjosedeassis&label=Profile%20views&color=0e75b6&style=flat" alt="professorjosedeassis" /> </p>
 
-- 🔭 No momento estou trabalhando com **Arduino, C, Java, JavaScript, Linux e desenvolvimento WEB**
+💻 **Curte tecnologia e quer aprender na prática?** Aqui não tem enrolação! Só projetos reais e tutoriais que vão do "Hello, World!" ao desenvolvimento de **aplicações multiplataforma**.
 
-- 🌱 Atualmente estou me aperfeiçoando em **JavaScript, e desenvolvimento WEB Full Stack**
+🐧 **Explorando o mundo Linux?** Sem medo do terminal! Tem **projetos focados em servidores** pra você sair do básico e configurar tudo como um verdadeiro sysadmin.
 
-- 👯 Procuro colaborar com [robótica educacional](https://github.com/roboticapratica)
+🚀 **Mão na massa!** Projetos reais pra você aprender de verdade e não só rodar código no "vai que dá certo". 😆
 
-- 📺 Inscreva-se no meu canal do YouTube! - [INSCREVER-SE](https://www.youtube.com/@ProfessorJosedeAssis?sub_confirmation=1)
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/professorjosedeassis](https://github.com/professorjosedeassis)
-
-- 🌎 Meu site: [https://joseassis.com.br/](https://joseassis.com.br/)
-
-- 📫 Contato: **josedeassisfilho@gmail.com**
-
-- 📄 Sobre mim: [Professor José de Assis](https://www.linkedin.com/in/professorjosedeassis)
-
-- ⚡ Fato engraçado sobre mim: **Imito perfeitamente a buzina de um fusca**
-
-## ☕ Café + Conteúdo Grátis: o combo perfeito para aprender!
-Para manter a qualidade e a frequência desse conteúdo gratuito, seu apoio faz toda a diferença. Se você acredita no meu trabalho e quer contribuir, considere fazer uma doação. Juntos, seguimos aprendendo e crescendo!
-
-#### Chave PIX❖
-` josedeassisfilho@gmail.com ` ( Em nome de José de Assis Filho )
-#### E olha,
-Só de curtir, e compartilhar o conhecimento, você já está dando uma baita força.
-
-### :smiley: Valeu demais pelo apoio!
