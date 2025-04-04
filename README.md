@@ -7,5 +7,5 @@
 
 🐧 **Explorando o mundo Linux?** Sem medo do terminal! Tem **projetos focados em servidores** pra você sair do básico e configurar tudo como um verdadeiro sysadmin.
 
-🚀 **Mão na massa!** Projetos reais pra você aprender de verdade e não só rodar código no "vai que dá certo". 😆
+🚀 **Mão na massa!** Projetos reais pra você aprender de verdade e não só rodar código no "susto". 👻
 
